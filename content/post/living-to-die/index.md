@@ -1,0 +1,33 @@
++++
+author = "Tyler McDonald"
+title = "From 'Living to Die' to 'Dying to Live'"
+date = "2023-03-26"
+description = "I looked around me just a bit more carefully, and saw all the ways people were finding themselves just dying to live, as opposed to living to die."
+tags = [
+    "journal",
+    "emotion"
+]
+categories = [
+    "journal",
+]
+image = "livingtodie.jpg"
++++
+*(If you’re looking for a nice accompanying piece that motivated this piece, but mostly the latter half, I recommend “Sea Change” by Stephan Moccio.)*
+
+I’ve historically had a distaste for life. Not in the “I’m tired of being on this planet and want out” way, but in the more “this world feels too wrong to be forced to live in.” It’s always affected my goal-setting and vision planning — the circumstances in which I grew up, globally, have forced me to be so conservative about the future and what it holds that I find myself spending my days living to die.
+
+“Living to die” is, in my eyes, that state of monotony that gives birth to the “oh well, good enough” mindset. You wake up and do the same thing every day — shower, eat, work/study, leisure, bed. These are things that, in all honesty, are quite enjoyable given the right circumstances, but when you wake up and face a gloomy cloud of worldwide monotony everywhere you go, you start to detract from what little joy you find in the routine. Again, this isn’t a depression cloud or the never-ending rain of self-pity, but more so the realization that, no matter how good you make your own day, it’s shrouded in negative news; whether it be world politics reaching a boiling point, the climate becoming uninhabitable faster than we can imagine, global recessions looming, or the like, you spend your days wondering about how easily your impact could be erased.
+
+For most of my life, I’ve been stuck in this mindset of live to die. From familial turmoil during my upbringing, school budget cuts and COVID during my schooling, the looming fiscal nonsense in the world today, and whatever tomorrow may hold, it seemed easiest to resolve to routine and let things play out as if I was on autopilot, without giving a care to the impact I made every day. I would look around and miss the gleeful joy of being an ignorant child, unfazed by the news and the markets and the climate, and motivated purely by my anticipation of recess games and whatever cartoon I’d watch before bed. I’d see those children and almost feel a little torn on the inside — they’re spending their early years right, yes, but they have *no idea* what they’re getting themselves into. The worst part is that we don’t ask for it; one day, we open our eyes, and from that point on we’re bound by that societal contract, that invisible, intangible postal slip we signed on receipt of our own delivery. I always felt that, from that moment on, we were destined to follow the straight and narrow lines of just enough to get by, the color-coded subway map of doing the bare minimum, and the dull hum of mediocrity toward an eventual end.
+
+I’m not sure how, and I’m not sure why, but at some point, that all changed — it was almost as if my grey-tinted glasses were taken off my face by some divine power. I looked around me just a *bit* more carefully, and saw all the ways people were finding themselves just dying to live, as opposed to living to die. I saw flutters of love between two best friends, the glee in a child’s eye as he blurts out about wanting to be an astronaut; I heard the laughter of friends who just wrapped up school for the year, and the cheers of students leaving an exam they felt like they completely controlled; for the first time in all my days (it seemed), I read between life’s blurry lines, and found a harmony that I’d been missing for far too long.
+
+You see, while “living to die” is a state of humble monotony, “dying to live” is a state of rebellious compulsion. It motivates people to change something ever so slightly just to displease the world, and gives power to those who go out of their way to find the joy in the boring and futile. Don’t get me wrong, we’re still living in a far less than idealistic society, but those who are dying to live feel that idealistic is just too boring anyways. They find a motivation through a subtle challenge — a pawn on its way to the end of the board as opposed to just relegating itself to cannon fodder.
+
+I started to piece together all that I could do to live out this subtle rebellion. I didn’t have to go clubbing every night or change the world to achieve that — instead, I started doing good things impulsively, or trying new things I always disregarded as not mattering in 20 years’ time. I always wanted to try being a researcher, so I did it; I wanted to meet some people who were completely different than me, just to have new friends, so I gave it a shot; I wanted to throw myself into all which I enjoyed, knowing that my tunnel vision would make me ignorant of the world around me, so I jumped in headfirst. In so doing, I found that all which I had been preoccupied with wasn’t at all preoccupied with me — so why on Earth should I give it the time of day?
+
+For the first time in my life, I started to look forward to the future. I began to cherish the slow-burn results of my efforts now, and gave more attention to that which would affect me long down the road. I became an optimist when I had spent my life being pessimistic, and it has been the greatest mental workout and cleanse that I could ever ask for. I won’t say that it makes the world any more perfect — a happy fish and sad fish swim in the same size tank — but by giving attention to those people, those things, those little facets of emotion around me that had been reaching out for all these years, I harnessed a newfound energy that I hadn’t given thought to in the past: **hope.**
+
+I can now proudly stand here and say that, instead of wishing that those same kids hadn’t been brought into such a cruel world, I hope for them to do all they can to reach for those dreams. I can appreciate the value of love, for a person or thing, and understand that I shouldn’t be thinking about how love falls apart until it actually does. I became someone who was desperately clawing for all life could offer, instead of someone who rejected life’s offerings in favor of a monotonous melancholy. I became addicted to life, and while the feeling could just as easily be temporary,
+
+*that’s now for future me to worry about.*
