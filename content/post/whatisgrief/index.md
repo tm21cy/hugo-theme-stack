@@ -1,80 +1,69 @@
 +++
 author = "Tyler McDonald"
-title = "absence"
-date = "2025-08-24"
-description = "even as forever quietly passed us by"
+title = "what is grief"
+date = "2025-08-30"
+description = "a desperate prayer to the deities of memory"
 tags = [
     "love",
-    "regret",
-    "longing",
+    "grief",
     "relationship",
-    "nostalgia"
+    "memory"
 ]
 categories = [
     "poetry",
 ]
-image = "absence.png"
+image = "whatisgrief.jpg"
 +++
-***Author’s Note: The text before the divider is the “forward” or original read. The text after the divider is the reversed poem. Experiment with how the meaning may differ! :)***
+*what is grief, if not the warmth of your hand*\
+*on mine, "be brave" trailing from your lips*\
+*that gave a faltering smile - your last vow of love*\
+*i was drunk on, as i reached for the final*\
+*echo of a spark fading in your eyes?*
 
-*we had only a season\
-but it burned brighter in being brief;\
-mornings stretched golden with your laughter,\
-flowers in my window swayed in our shared breaths,\
-with you, even the rain turned gentle.*
+*what is grief, if not the hollow of my passenger*\
+*seat; your blue sunglasses still hooked on the mirror,*\
+*casting shards of light across the console, the radio*\
+*echoing your voice, soft and off-key, as we*\
+*once drove toward our perfect nowhere?*
 
-*in each coffee date, each train ride, each smile,\
-there was a pocket of eternity;\
-i sought the shape of your hand,\
-my thumb tracing the quiet ridges of your knuckles,\
-as if holding on could break the cycle of time.*
+*what is grief, if not the basket of laundry hastily*\
+*left atop your empty place in our bed, each shirt*\
+*carrying marshmallows and lavender, the scent of*\
+*the love i cannot bring myself to release,*\
+*each article untouched, as if to hold reality still?*
 
-*yet the days kept unfolding, steady and sure,\
-the edges marred by shadows we never named;\
-we gathered joy as though it might be endless,\
-each moment bottled like the fireflies you loved,\
-even as forever quietly passed us by.*
+*what is grief, if not the cloudless day outside*\
+*my window, the vast sky collapsing beneath*\
+*your absence, a book left open, a receipt marking*\
+*the page, our deck chairs echoing with*\
+*your last complaint about a story too slow?*
 
-*as distance spoke your name,\
-you chose a path i could not follow;\
-i smiled watching you go,\
-and i never reached to hold you back —\
-love does not build cages.*
+*what is grief, if not my hands clasped together,*\
+*a desperate prayer to the deities of memory,*\
+*my calloused palms aching for the silk of yours*\
+*as i squeeze firmly, waiting for the ghost of your reply,*\
+*haunted by the breath you once drew from me?*
 
-*what we held remains untarnished,\
-a chamber in my mind, the quiet cavern of the soul;\
-yet my hands ache with emptiness\
-in the absence of the one i loved,\
-the crisp spring air wide as the world.*
+*what is grief, if not the vacant silence of*\
+*the kitchen, my body aching for your arms*\
+*around me from behind, your whisper sending*\
+*shivers down my neck, along my spine, while you*\
+*rubbed sleep from your eyes with a shameless grin?*
 
----
+*what is grief, if not the face of your brother,*\
+*his gaze bloodshot, bearing the same ache,*\
+*my chest tightening as your smile returns*\
+*unbidden through him, the love you left still*\
+*glimmering in the eyes of those who remain?*
 
-*the crisp spring air wide as the world\
-in the absence of the one i loved;\
-yet my hands ache with emptiness,\
-a chamber in my mind, the quiet cavern of the soul —\
-what we held remains untarnished.*
+*and grief remains in the unspoken fury*\
+*of "she was a beautiful soul, she lit up each room,"*\
+*as if their faces could ever understand*\
+*the way you tenderly cradled my heart,*\
+*how your eyes once found mine in any room?*
 
-*love does not build cages,\
-and i never reached to hold you back —\
-i smiled watching you go;\
-you chose a path i could not follow\
-as distance spoke your name.*
-
-*even as forever quietly passed us by,\
-each moment bottled like the fireflies you loved,\
-we gathered joy as though it might be endless;\
-the edges marred by shadows we never named,\
-yet the days kept unfolding, steady and sure.*
-
-*as if holding on could break the cycle of time,\
-my thumb tracing the quiet ridges of your knuckles,\
-i sought the shape of your hand;\
-there was a pocket of eternity\
-in each coffee date, each train ride, each smile.*
-
-*with you, even the rain turned gentle;\
-flowers in my window swayed in our shared breaths,\
-mornings stretched golden with your laughter —\
-but it burned brighter in being brief.\
-we had only a season.*
+*so what is grief, if not love left unfinished -*\
+*your life, our life, stranded in the ink*\
+*of an author reaching for the next chapter;*\
+*a heart once as bright as the wildflowers*\
+*extinguished beneath the snow where you kissed me last?*
