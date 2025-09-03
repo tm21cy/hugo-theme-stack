@@ -60,7 +60,7 @@ image = "stardust.jpg"
 *the world may tell you so - you carry galaxies*\
 *folded into your quiet soul, your voice a honey-sweet*\
 *reminder that the universe chose to gather in your*\
-*smile, that the gods of creation favored you.*\
+*smile, that the gods of creation favored you.*
 
 *and though the universe leans toward unraveling,*\
 *all stars destined to invariably burn into silence,*\
