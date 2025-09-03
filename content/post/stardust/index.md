@@ -11,7 +11,7 @@ tags = [
 categories = [
     "poetry",
 ]
-image = "stardust.png"
+image = "stardust.jpg"
 +++
 
 *they say the iron in our blood*\
