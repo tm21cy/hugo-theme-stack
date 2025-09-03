@@ -51,7 +51,7 @@ image = "stardust.jpg"
 *moment i choose to leave a piece of myself with you.*
 
 *and still, i fear the silences between us,*\
-*as wide and cold as the gulfs between galaxes,*\
+*as wide and cold as the gulfs between galaxies,*\
 *yet the pull of your eager eyes steadies me,*\
 *gravity refusing to let me drift away,*\
 *to lose our spark to that horizon of dark.*
