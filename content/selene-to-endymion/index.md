@@ -1,7 +1,7 @@
 +++
 author = "Tyler McDonald"
 title = "selene to endymion"
-date = "2025-09-24"
+date = "2025-09-28"
 description = "let my hand be your ring in the secrecy of our nights"
 tags = [
     "love",
