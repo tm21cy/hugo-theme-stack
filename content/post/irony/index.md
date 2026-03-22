@@ -1,7 +1,7 @@
 +++
 author = "Tyler McDonald"
 title = "March 21st: On Irony and Self-Forgiveness"
-date = "2024-01-20"
+date = "2025-03-21"
 description = ""
 tags = [
     "journal",
