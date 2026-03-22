@@ -1,0 +1,87 @@
++++
+author = "Tyler McDonald"
+title = "March 21st: On Irony and Self-Forgiveness"
+date = "2024-01-20"
+description = ""
+tags = [
+    "journal",
+    "emotion",
+    "lifestyle"
+]
+categories = [
+    "journal",
+]
++++
+I've always been quick to point out irony. Whether I like that tendency or not, it's something that's part of my ingrained social routine. Someone will say something completely against the version of them I know, I'll think to myself "man, that seems weird, they don't seem like that person at all," and then I go about my day wondering how people can be driven to the extent of being so out of line with their values and morals.
+
+To all my friends who are reading this and saying "hah! That's rich, coming from you!", I am sincerely sorry in advance for not sooner reaching the conclusion that serves as my impetus for writing tonight:
+
+I am the biggest, most ironic hypocrite of all the people I know.
+
+---
+
+I think the past 6 months have taught me a lot about why people don't detect their own irony. Prior to that, I figured that it was all about showcasing your best facade to the world; by putting on the perfect mask, we found our place socially, and yet each night, we instead found ourselves wondering who we really were. That latter stage, the crisis of self-discovery, is often so short-lived that we don't truly acknowledge it. We pay it a moment's heed, grab our metaphorical bags, and move on down the road.
+
+In this way, it's a sort of necessary defense mechanism. In hindsight, I can't exactly blame people for defending themselves this way; we all have our insecurities and social norms to adhere to, and tossing on the mask is the easiest way to counteract that, to feel normal for a while. As someone who is only now realizing to what extent I did so, I hold much less disdain towards these people in my life - in fact, I find that I see it more now that I'm looking for it.
+
+My therapist made a really good point about this, and it was one that was uncomfortable in delivery but very necessary on the uptake. He told me that, while I spend my days wishing and dreaming for the perfect, authentic people to find their way into my life, I was navigating those interactions with a mask of my own. I would tell myself that a friendship was doomed to go quiet because I wore a mask of indifference to the outcome, or I'd tell myself that a budding relationship should take its time and be purposeful because I wore a mask of casual and cool collectedness. The moment his words struck me in that appointment, I *genuinely* felt a shift in who I was.
+
+In these ways, it is *exactly* a defense mechanism. Sometimes we simply throw masks on for social clout, yes, but most of the time I feel the underlying reason is actually a soft insecurity in the parts of us that want to simply feel. If I had no masks to fall back on, I'm convinced I would love fiercely, meet and mingle without due regard, and show the truest desires of my heart and waking life to people without a consideration for how they would take it. In this world of rapid-fire friendship, though, I think those desires often take a backseat to simply nodding along and playing the part you've been assigned, whether you studied up or not. It's one of the reasons I hold such a distaste for social media, even in communities I love: we don't get space or room to be ourselves in the truest form, no matter who encourages us to do so.
+
+Again, to the friends reading this right now who are screaming cries of "I told you so" at their device, I apologize profusely, but stick with me.
+
+---
+
+I think the power of hindsight has been most helpful here. Lately, I've been doing a lot of retrospective dives into the past year to try and piece together what went "wrong" along the way. Part of psychotherapy is "cleaning out the cabinets," so to prevent myself from sounding like too much of a hypocrite again, I wanted to do so in a space that held me accountable to myself. They say nothing's ever temporary on the great blue sea of the internet, right?
+
+I let a lot of things slip before I started medication and therapy, I'm no stranger to that. I think the one I've been least proud of for the longest time is how much that impacted my relationships with people. Through some very necessary talks and deep-dives, I found that the mask I put on was what my therapist called "one of intellectualizing the world." In that sense, I stuck to what worked and what was logically sound in my head; work couldn't screw you up, because you brought home a paycheck, and studies couldn't screw you up, because your effort - however misaligned with your values it may be - will nearly always transmute into "success." In that regard, I plunged myself into my work; a 16 hour day followed by a few hours of tossing and turning was a normal occurrence for me, and to speak as candidly as possible, I'm cognizant of the people in my life who may have inadvertently enabled that. It got to the point where people began addressing me less as a friend and more of as a coworker, an "inspiration" (a term that holds an incredibly sour place in my mouth, to be blunt), and a walking reference letter. I can't necessarily blame them for this, but it's something that still makes my gut wrench months later.
+
+As a vehement preacher of "hard work for a good life," I found myself quickly becoming more and more disillusioned with that idea. After all, it only takes a few months of nose-to-the-grindstone pace without results for you to start to drift away from wanting to work like a machine for the rest of your life. Gripes with work aside, the one thing I found that work pulled me away from was the very same authentic connection I've repeatedly prioritized as important in my life. Every conversation was the same: "hey, how are you? Oh, yeah, I'm *exhausted* from all the work I've been doing." It becomes really, really easy to drive people away when you maintain a work-work balance, and I actually find myself choking up a bit wondering if that may have contributed to people slipping away from me.
+
+If I had to place one piece of completely ironic advice to give with respect to this idea of working toward an infinite horizon, it'd be simple: you can't traverse a path alone. If you're lucky enough to be surrounded by gracious people, the double-edged sword is that they won't ever tell you if you're taking more than you give. I'm incredibly thankful to be surrounded with these people, but they also taught me a lot about what it means to be resilient for more than yourself. It means showing up when your friends want to truly feel their struggles. It means offering a shoulder to lean on, even when you're not convinced you're the right choice. It means leaving work at the door sometimes and remembering that you're allowed to simply exist, be human, and be imperfect. Out of all of the lessons I learned far, *far* too late in life, it was this one. To the friends who have definitely been chastising me throughout this read, I want you to know that I apologize from the bottom of my heart for not being the friend you truly deserve. All of you are incomparable beyond measure, and for your simple presence and smile in my life, I'm so grateful.
+
+---
+
+Another facet of my life that I really took some time to dive into was my way of perceiving and enjoying the world. I used to write extensively about how good it felt to see the world in color, to actually feel the palpable nature of human interaction around you every single day. I hate to say that, over the past 6 months, the world has been looking pretty greyscale.
+
+Now, this isn't to say I haven't made some progress. Couple antidepressants, therapy, time with friends, and an urge to smile at least once a day together, and you get a pretty enjoyable outlook on life. That being said, I still recognize that I have a long way to go. I still find myself getting irritated at bursts of energy from other people, and I, without a doubt, am often the worst person to be around in a social setting if I'm drained from not balancing my work and casual life enough.
+
+In addition to the many things I'm claiming to have discovered far too late, one of the most poignant ones is that my distaste for extremely social gatherings is partly rooted in actual anxiety, yes, but is mostly rooted in one very scary trait: undiluted envy. It sounds bad, and honestly, I *hope* it sounds bad (because we're all accountable people here), but I often find myself envious of how "easily" this energy can come for some people. I found myself irrationally envious of the quality of relationships people had built, even when I *knew* in my heart that it was because they did one thing that I often shoved to the back burner: they tried. That's all they did. They showed up, they said hi, they made plans, they went out and had fun, and as a result, they got a pretty good friend out of it. I laugh at myself now for ever being angry at something so within my control, but it revealed a pretty stark area of myself that I left to develop cobwebs in the back of my mind. The adventure to unpacking that thought, to cleaning the cobwebs, was what taught me that my envy is pretty much just anger at myself, displaced towards others around me.
+
+This has been something I've definitely been trying to improve as of late. One of my first pieces of feedback to my primary care doctor, after being on my medication for 6 weeks, was that I felt like much more of a spontaneous person. I was far more ready and equipped to get back to my favorite version of myself: the Tyler that approaches people randomly, wants to hold a discussion, and fears the moment the discussion tapers off for good. Even now, I find myself sitting at my phone, waiting to hear back from some people (and yes, to my friends, I understand that I'm bad at texting to begin with) with this joy in my heart that simply wasn't there. I could sit here and thank the medication or therapy for this, sure, but the more honest answer is that I just... woke up to the world. I started wanting to care about what my friends had in store for their days, or what the newest developments in their life were. Honestly, we can laugh at it for sure, but I find myself back in the depths of petty squabbles and drama between mutual friends because, to me, it's more of that lived experience that I've been craving.
+
+I suppose my second piece of ironic advice is one that I've basically already stated: being a hermit by choice is a very slippery slope. For people driven by instant gratification, as is the case with many people nowadays, the safest and most entertaining option some days is to simply shut out the world, indulge in your own favorite things, and take some time to yourself. This is great on an occasional basis, don't get me wrong, but at a certain point you begin to resent yourself. You begin to resent the idea that your successes and failures, struggles and shines, are yours alone. As a result of that resentment, you displace your anger towards people around you and the joy that they're feeling, which only serves to drive you deeper into solitude, and then we rinse and repeat until something gives. Instead, try to challenge that every single day. Say hi to someone you would have never said hi to before. Strike up a conversation at your local coffee shop because you're interested in the same things, or say hi to a stranger you met by complete chance. Do those things not for the social rapport or favors to call in, but do them because they remind you that other people exist and other people want to see you succeed and be happy just as much as you'll inevitably learn to wish the same on them.
+
+---
+
+I could continue going on and on about the particular brand of man I want to be, the life I want to live even in the most idealistic of settings, or how retrospection has brought me closer to my values than ever before. Instead of that, I want to give myself an accountability plan, because I slacked off at the beginning of this year (my tradition has always been to write on January 1st, and to use that as a retrospective baseline). Maybe you can learn a helpful tidbit or two from that as well!
+
+6 months ago, up until recently, Tyler was not at all consistent with his values. For reference, I recently did a therapy exercise where I had to document my wishes in the form of traits and values - these were my top ten:
+
+1. Authenticity
+2. Love
+3. Skillfulness
+4. Honesty
+5. Kindness
+6. Friendliness
+7. Connection
+8. Curiosity
+9. Supportiveness
+10. Creativity
+
+Cue the maniacal laughter from people who know me quite well and know that I've been slacking more than I'll be able to claim in a little blog post. In any case, the Tyler of past iterations almost explicitly chose to ignore the ones that didn't bring him acclaim, satisfaction in life or a career, or a way to promote himself. I'm cognizant enough of myself to recognize that, yes, this was a part of my life, and yes, I still do adhere to many of these things as a defense mechanism of sorts. However, I'd be sorely remiss if I didn't take this time to outline at least one way I could aim to improve each of these:
+
+1. Authenticity: ignore the calls from the world to fit into a certain role. Show my true desires, however messy and unkempt they may be. Say yes to everything and everyone that brings me joy.
+2. Love: a trickier one to articulate, but try to embrace the spontaneous "butterflies" feeling that I've always loved. Say something on the nose to someone you love, don't just imply it. Go out, see the world, and do it with people who make me happy, secure, and ready to share my heart.
+3. Skillfulness: acknowledge that work does not necessarily translate into skills. Find opportunities to build skills that will better the people around me, not just my own craft. Uplift people and support their journey into discovering their own passions.
+4. Honesty: be honest about when I'm hurting. This one is going to take some real time, I won't lie. Be honest, be forward, and don't try to abstract it behind "eh, we'll find a way out." Additionally, be more honest with the people I love, and be more intentional about sharing that honesty regularly.
+5. Kindness: support people and their ambitions/lives/relationships, even when that "envy of old" seems to creep back into the forefront. Be kind for the sole purpose of being kind. Embrace any connection, however uncomfortable it may be.
+6. Friendliness: keep recognizing that it takes very little to make a person's day. Try to spot when people are having a tough time, and offer that shoulder if they need it. Give a little piece of myself to everyone I meet.
+7. Connection: acknowledge that, in the past, I've deliberately shoved people away when they got too close. In response, find excuses to try forming connections, especially with those who share a love for authenticity.
+8. Curiosity: be curious about the world, not just what may be relevant or a buzzword at the time. Seek ways to learn about things, people, places, and what I can do to impart my own indelible mark on those things.
+9. Supportiveness: understand that people have battles of their own that they may avoid showing, and offer to be there anyways. Find a way to support people in the good and bad, and always find an excuse to take a vested interest in what somebody else cares about.
+10. Creativity: never, ever stop devoting myself to my craft, the one thing that keeps me sane some days. Whether it's poetry or journal entries, short stories or songs, always find a way to be creative. Even if I want to show the world so badly, do creative things for my own sake. Enjoy the process.
+
+To make it a nice, round three pieces of ironic advice, I'd challenge you all to take stock of your most important virtues and goals in life. It's very easy for us to drift from our true center of moral gravity when the world wants to keep knocking us around and beating us up. It's even easier to drift from that center when the world expects you to fit into neat little boxes. Make a regular habit of taking an informed, intentional stock of what you find most relevant to your ambitions and goals, and share those with people to keep you accountable. I can confidently say that, without the wonderful people in my life who always hold me to a higher standard, I wouldn't have the chances to reinvent myself that I do now.
+
+Lastly, however sappy they may claim it to be, I owe a really, really big (albeit impersonal) thank-you to my closest friends. I know you've had to put up with me during some really, really bad stretches of my mind going wild, and no single word or thank-you can accurately repay that debt. From being my shoulder to lean on - either virtually or in-person - to inspiring my creative process and supporting my dreams at every turn, you guys are the reason I want to try and be better. I recognize so fondly that I could be doing *much* worse without the friendships that I often neglected. I recognize that I've wronged some of you, ignored most of you, and have never truly valued all of you to the extent that you deserve. I hope that, in time, I can have my own conversations with each of you to try and repair what was inevitably broken, because you are the people who are, in no small part, the foundation upon which I am built.
